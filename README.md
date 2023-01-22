@@ -34,6 +34,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um para ajudar a rastrear os hábitos.
 
+- [Visite o projeto online](https://github.com/hackerlds/nlw-setup)
+
+
 
 ## 🔖 Layout
 
